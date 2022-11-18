@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "pareto-core-lib": "^0.8.0",
+    "pareto-core-raw": "^0.4.0",
+    "res-pareto-filesystem": "^0.26.0",
+    "res-pareto-process": "^0.8.0",
+    "res-pareto-ugly-stuff": "^0.9.0"
+  },
+  "name": "XXXXX",
+  "version": "0.0.0",
+  "author": "Corno",
+  "bugs": {
+    "url": "https://github.com/corno/XXXXX/issues"
+  },
+  "description": "",
+  "homepage": "https://github.com/corno/XXXXX#readme",
+  "keywords": [],
+  "license": "ISC",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corno/XXXXX.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "interface-fingerprint": "dcc5bbdbf2201f2b7e580481e6e1747ce9c01013",
+  "content-fingerprint": "314ddef061c5cbb3a26b25b8130933b43be4ff40"
+}
